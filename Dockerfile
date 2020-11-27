@@ -1,7 +1,7 @@
 # Dockerfile to run StyleGAN2 ADA - Copyright 2020 by Jeff Heaton
 # Licensed under the MIT license
 # GitHub: https://github.com/jeffheaton/docker-stylegan2-ada
-# DockerHub:
+# DockerHub: https://hub.docker.com/r/heatonresearch/stylegan2-ada
 # 
 FROM tensorflow/tensorflow:1.14.0-gpu-py3
 

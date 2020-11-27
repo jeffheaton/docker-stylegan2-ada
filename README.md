@@ -1,4 +1,7 @@
 # Docker file to run StyleGAN2 ADA, docker-stylegan2-ada
+* Licensed under the MIT license
+* GitHub: https://github.com/jeffheaton/docker-stylegan2-ada
+* DockerHub: https://hub.docker.com/r/heatonresearch/stylegan2-ada
 
 [Jeff Heaton's](http://www.heatonresearch.com) Docker image for running Stylegan2 ADA with GPU. This dockerfile is intended to be run from [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker). To start a container from this image run something similar to the following:
 
