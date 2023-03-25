@@ -3,7 +3,7 @@
 # GitHub: https://github.com/jeffheaton/docker-stylegan2-ada
 # DockerHub: https://hub.docker.com/r/heatonresearch/stylegan2-ada
 # 
-FROM tensorflow/tensorflow:1.14.0-gpu-py3
+FROM nvcr.io/nvidia/tensorflow:21.06-tf1-py3
 
 ENV DNNLIB_CACHE_DIR=/home/.cache 
 
